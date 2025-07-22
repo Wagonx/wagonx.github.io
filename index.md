@@ -3,7 +3,7 @@ layout: default
 title: Contact
 ---
 
-## About Me
+## <u>About Me</u>
 My passion is cybersecurity and Information Security - specifically Threat Hunting/Intelligence, Reverse Engineering, and Digital Forensics. Blue team has had my heart since day one.  
 <br>
 I love participating in CTFs and just finished top 3 at the Jeopardy-style Meta CTF at Denver's WWHF 2025! When I'm not working, you'll find me with Ghidra and malware analysis books. It's my favorite part of cybersecurity.  
